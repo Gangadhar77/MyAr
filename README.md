@@ -1,4 +1,4 @@
-# MyAr
+# Uncheat AR Maze Game
 
 Hi guys. This is Sanniboyina Gangadhar. I developed this project mainly for children , for more info 
 
